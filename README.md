@@ -24,7 +24,7 @@ GitHub is a hosting service for Git repositories designed for developers.
 - It backs up my code online
 
 
-what i learned from the past week vary shortly :-
+## what i learned from the past week vary shortly :-
 
 - i learned how a website performes its action specficly concerning the idea of frontend, backend and their integration. i understand the mechanisems by which a webesit performes its actions 
     it goes like this:-
