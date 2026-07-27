@@ -11,11 +11,11 @@ Node.js is the environment that allows us to run JavaScript on the server outsid
 Visual Studio Code is the text editor/IDE where i will write all my code.
 it have Extensions for syntax highlighting, auto-completion, and debugging and provide a Direct integration with Git.
 
- 4. Git 
+4. Git 
 Git is System that runs on my local machine and tracks every change i make to my code files.
 - It lets me "save checkpoints" (commits) of my project. If i break my code, i can rewind to a working version.
 
-## 5. GitHub 
+5. GitHub 
 GitHub is a hosting service for Git repositories designed for developers.
 - It backs up my code online
 
