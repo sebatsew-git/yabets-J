@@ -26,12 +26,12 @@ GitHub is a hosting service for Git repositories designed for developers.
 
 ## what i learned from the past week vary shortly :-
 
-- i learned how a website performes its action specficly concerning the idea of frontend, backend and their integration. i understand the mechanisems by which a webesit performes its actions 
+- i learned how a website performes its action specificlly concerning the idea of frontend, backend and their integration. i understand the mechanisms by which a webesit performes its actions. 
     it goes like this:-
 Frontend  → Sends Request → Backend (Server) → Talks to Database → Sends Response → Frontend displays data.
 
-- i figered out how to prepare my developer enviroment, i have completed it also
-- i learned more about VS Codr,Node. js, git and github, how they work and how can they help in my backend development projects
+- i figered out how to prepare my developer enviroment, i have completed it also.
+- i learned more about VS Code, Node. js, git and github, how they work and how can they help in my backend development projects.
 
   thank you
   
