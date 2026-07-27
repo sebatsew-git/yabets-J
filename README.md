@@ -1,7 +1,7 @@
 
 1. Backend Development 
 The backend is everything the user **does not see** on a website or app. It is the server, database, and logic that makes the frontend work.
-it Handles user authentication, database operations, business logic, and API requests
+it Handles user authentication, database operations, business logic and API requests
 
 2. Node.js 
 Node.js is the environment that allows us to run JavaScript on the server outside of a web browser. 
